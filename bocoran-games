@@ -1,18 +1,26 @@
 [
   {
     "title": "Gates of Olympus",
-    "status": "🔥 Gacor Banget!",
-    "spinInfo": "Spin manual 20–30x, beli scatter saat logo petir muncul berturut-turut.",
-    "symbols": "Logo Zeus, Petir",
-    "scatterTips": "Beli scatter saat pola petir muncul berturut-turut",
-    "updated": "Update terakhir 12:45 WIB"
+    "status": "🔥 Gacor Banget",
+    "spinInfo": "Coba 30–50x spin manual sebelum beli fitur.",
+    "symbols": "⚡ Petir, Mahkota, Cincin",
+    "scatterTips": "Beli scatter saat simbol petir sering muncul.",
+    "updated": "2025-04-23 14:00"
   },
   {
     "title": "Starlight Princess",
-    "status": "✨ Scatter Aktif",
-    "spinInfo": "Spin 15x, lihat simbol hati dan multiply aktif.",
-    "symbols": "Hati, Bulan, Multiply",
-    "scatterTips": "Beli scatter saat multiply aktif 2–3 kali",
-    "updated": "Update terakhir 12:45 WIB"
+    "status": "⚠️ Rawan Trap",
+    "spinInfo": "Gunakan turbo 10x lalu amati pola scatter.",
+    "symbols": "💎 Hati, Bintang Kuning",
+    "scatterTips": "Jangan beli scatter jika belum muncul bintang 2x berturut.",
+    "updated": "2025-04-23 14:00"
+  },
+  {
+    "title": "Sweet Bonanza",
+    "status": "✅ Stabil",
+    "spinInfo": "Spin 20x, lanjut auto 10x, lalu beli jika banyak bom muncul.",
+    "symbols": "🍬 Permen Ungu, Apel",
+    "scatterTips": "Tunggu pola 2x simbol scatter muncul bersamaan.",
+    "updated": "2025-04-23 14:00"
   }
 ]
