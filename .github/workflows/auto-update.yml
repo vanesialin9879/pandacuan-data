@@ -1,0 +1,13 @@
+name: Auto Update Bocoran Games
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Show message
+        run: echo "GitHub Action berjalan, tapi belum ada script update."
